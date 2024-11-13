@@ -1,0 +1,11 @@
+git is version control system
+check version
+============
+git -v:- it is used to display version of git.
+
+work flow of Git:
+=================
+
+repository:- means folder
+
+working repository 
